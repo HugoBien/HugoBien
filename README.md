@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+French Student in M2 IL in Nancy.
+
+This git contains all my personnal or school works.
+
 <!--
 **HugoBien/HugoBien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
