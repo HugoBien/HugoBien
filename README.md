@@ -8,7 +8,7 @@ This git contains all my personnal or school works.
 <h3 align="left">Programming & Scripting Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,powershell,c,cpp,c#,java,js,php,css,html" /> 
+    <img src="https://skillicons.dev/icons?i=py,bash,powershell,c,cpp,csharp,java,js,php,css,html" /> 
   </a> 
 </p>
 
